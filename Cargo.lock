@@ -85,7 +85,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "axum-retry"
+name = "axum-implicit-retry-repro"
 version = "0.1.0"
 dependencies = [
  "axum",

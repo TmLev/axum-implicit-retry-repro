@@ -1,6 +1,6 @@
 [package]
 edition = "2021"
-name = "axum-retry"
+name = "axum-implicit-retry-repro"
 version = "0.1.0"
 
 [dependencies]
